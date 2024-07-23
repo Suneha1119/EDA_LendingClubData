@@ -36,10 +36,14 @@ Therefore, the company wants to identify the key factors (or driver variables) t
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Higher the interest rates, higher the chances of default
+- High interest rates
+- The grade decreases, interest rate is also increasing
+- Low annual income of borrower
+- Loans of Grade B, A, C, and B
+- High installments
+- Previous records of bankruptcies
+- Higher the Revolving Utilization rate, higher the chances of default
 - Higher the loan amount, higher the chances of default
-- Higher the annual income, lower the chances of default
-- Higher the grade more is the risk of default.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
